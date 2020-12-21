@@ -1,7 +1,6 @@
 package inaracademy.MavenJava;
 
 import org.testng.annotations.Test;
-import org.testng.annotations.Test;
 
 public class AppiumTest {
 
@@ -9,6 +8,6 @@ public class AppiumTest {
 	public void portJira() {
 
 		System.out.println("portJira");
-		 
+
 	}
 }
